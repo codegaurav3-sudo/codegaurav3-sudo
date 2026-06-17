@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-I'm currently working on backend project<br>I'm currently learning Fastapi, Devops
+I'm  working on backend project<br>I'm currently learning Fastapi, Devops
 
 
 ## 🌐 Socials:
